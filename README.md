@@ -6,3 +6,9 @@ JavaScript: https://jsfiddle.net/maximiano17/04aemnkh/7/#save
 
 Java: https://www.jdoodle.com/efb3abc8-4eb3-438b-a544-ecc522e7f18c
 - O código é o mais longo mas não achei tão difícil quanto o JavaScript
+
+Atividade 5:
+Estrutura de decisão:
+https://replit.com/@maximianomcmax/UniformDensePlans#main%20(copy).py
+Estrutura de Repetição:
+https://replit.com/@maximianomcmax/UniformDensePlans#main.py
